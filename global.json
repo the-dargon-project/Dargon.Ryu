@@ -1,7 +1,9 @@
 ﻿{
     "projects": [
         "dependencies/ryu/src",
-        "dependencies/ryu/test"
+        "dependencies/ryu/test",
+        "dependencies/nmockito/src",
+        "dependencies/commons/src"
     ],
     "sdk": {
         "version": "1.0.0-rc1-update1"

@@ -1,0 +1,12 @@
+Setup:
+   Load all modules to list
+   Enumerate extensions.
+   Build extension dependency tree.
+   Preconstruction on extensions.
+   Construct all dependencies.
+      Find<T> behavior: Construct matches, disallow cyclic dependencies.
+   Postconstruction on extensions.
+   Preinitializatoin on extensions.
+   Initialization on dependencies.
+   Postinitialization on extensions.
+   
